@@ -1,1 +1,2 @@
-Hello, git
+New string
+New string 2
